@@ -1,0 +1,26 @@
+{
+  "name": "algorithmchallanges",
+  "version": "1.0.0",
+  "description": "algorithms only",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Test Suite Called\" && node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexHardy872/algorithmChallanges.git"
+  },
+  "keywords": [
+    "test",
+    "challenges"
+  ],
+  "author": "alex hardy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexHardy872/algorithmChallanges/issues"
+  },
+  "homepage": "https://github.com/alexHardy872/algorithmChallanges#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
