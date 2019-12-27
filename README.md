@@ -1,0 +1,1 @@
+git ignore was created after the folders were made and therefore do NOT ignore the node_modules

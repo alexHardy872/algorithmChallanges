@@ -4,7 +4,7 @@
   "description": "algorithms only",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Test Suite Called\" && node_modules/jasmine/bin/jasmine.js"
+    "test": "echo \"Test Suite Called\" && node ./node_modules/jasmine/bin/jasmine.js"
   },
   "repository": {
     "type": "git",
