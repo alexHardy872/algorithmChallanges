@@ -27,9 +27,9 @@ expect(result_two).toEqual('');
 });
 
 it('should return a string', () => {
-    let result = inputString('abc##bc');
-    expect(result).toEqual('abc');
-    });
+let result = inputString('abc##bc');
+expect(result).toEqual('abc');
+});
 
 
 
